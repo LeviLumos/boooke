@@ -1,28 +1,28 @@
-import { hopeTheme } from "vuepress-theme-hope";
+import { hopeTheme } from "vuepress-theme-hope"
 //中文导航栏
-import { zhNavbar } from "./navbar/index.js";
+import { zhNavbar } from "./navbar/index.js"
 //中文侧边栏
-import { zhSidebar } from "./sidebar/index.js";
+import { zhSidebar } from "./sidebar/index.js"
 
 // 主题设置
 export default hopeTheme({
   // 当前网站部署到的域名
-  hostname: "https://gitee.com/v50to_me",
+  hostname: "https://github.com/LeviLumos",
 
   // 文章显示的默认作者
   author: {
-    name: "JaiSyingTung",
-    url: "https://gitee.com/v50to_me",
+    name: "LeviLumos",
+    url: "https://github.com/LeviLumos",
   },
 
   // 使用官方提供的图标库-也可以构建自己的图标库
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome",
 
   // 网站图标
   logo: "/site_logo.png",
 
   // 导航栏上的个人仓库地址
-  repo: "https://gitee.com/v50to_me",
+  repo: "https://github.com/LeviLumos",
 
   // 自定义仓库链接文字-默认从repo中自动推断为"GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "Gitee",
@@ -72,10 +72,10 @@ export default hopeTheme({
   docsRepo: "https://gitee.com/v50to_me/Boke.git",
 
   // 文章所在分支
-  docsBranch: "master",
+  docsBranch: "main",
 
   // 文章所在目录
-  docsDir: "src",
+  docsDir: "docs",
 
   // 多语言设置
   locales: {
