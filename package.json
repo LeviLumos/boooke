@@ -8,7 +8,7 @@
     "build": "vuepress build src",
     "clean": "vuepress dev src --clean-cache",
     "dev": "vuepress dev src",
-    "deploy": "mv src/.vuepress/dist docs/"
+    "deploy": "rm -rf docs/ && mv src/.vuepress/dist docs/"
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.53",
