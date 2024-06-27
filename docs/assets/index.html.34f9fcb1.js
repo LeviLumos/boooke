@@ -1,4 +1,4 @@
-import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as i,c as a,b as n,d as e,e as o,r}from"./app.a7b857ec.js";const s={},d=e("h2",{id:"社区博客",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#社区博客","aria-hidden":"true"},"#"),o(" 社区博客")],-1),l=e("h2",{id:"技术栈",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#技术栈","aria-hidden":"true"},"#"),o(" 技术栈")],-1);function h(_,u){const c=r("NavCard");return i(),a("div",null,[n(c,{arr:`[
+import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as a,c as i,d as n,a as e,b as o,r}from"./app.53c61ab5.js";const s={},d=e("h2",{id:"社区博客",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#社区博客","aria-hidden":"true"},"#"),o(" 社区博客")],-1),l=e("h2",{id:"技术栈",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#技术栈","aria-hidden":"true"},"#"),o(" 技术栈")],-1);function h(_,u){const c=r("NavCard");return a(),i("div",null,[n(c,{arr:`[
 {"title":"全渠道搜索","url":"https://dir.scmor.com/","desc":"国内使用Google搜索","icon":"/navicon/google.ico"},
 {"title":"QuickRef","url":"https://quickref.me/","desc":"快速学习各种语言的语法","icon":"/navicon/quickref.png"}
 ]`}),d,n(c,{arr:`[
