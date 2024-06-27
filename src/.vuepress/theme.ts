@@ -25,7 +25,7 @@ export default hopeTheme({
   repo: "https://github.com/LeviLumos",
 
   // 自定义仓库链接文字-默认从repo中自动推断为"GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
-  repoLabel: "Gitee",
+  repoLabel: "Github",
 
   // 是否在导航栏内显示仓库链接-默认为true
   repoDisplay: true,

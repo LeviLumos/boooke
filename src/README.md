@@ -16,11 +16,10 @@ actions:
   - text: 开源项目
     link: /projects/
 features:
-  - title: 码云
-    icon: /othericon/gitee.svg
-    details: 摘星童丶
-    link: https://gitee.com/v50to_me
+  - title: Github
+    icon: /othericon/github.svg
+    details: Levi Lumos
+    link: https://github.com/LeviLumos
 ---
-   >### 你应该开始写博客，如果不知道写什么，就写你学到的东西，以及写下你创造或建立的东西。
-   >::: right
-   >###                                                                   ———— 《博客写什么》
+
+## 慢慢更新世界，慢慢更新自己。
